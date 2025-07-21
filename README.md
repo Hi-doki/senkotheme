@@ -4,6 +4,8 @@
 
 Sorry for how long this has taken for me to upload x3
 
+I also highly recommend using AltSnap to be able to move your terminal around after applying my config, unless you already use something like Komorebi or GlazeWM
+
 Some of these configs are modified versions of already existing configs, such as YASB, oh-my-posh, and Spicetify.
 https://github.com/spicetify/spicetify-themes/tree/master/text <br>
 https://github.com/amnweb/yasb-themes/tree/main/themes/764a14e0-2d6a-4826-994a-9289857886ba <br>
