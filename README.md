@@ -1,5 +1,7 @@
 # Senko Theme (Windows)
 
+<img src="https://i.redd.it/v5vl6ynldhdf1.png" />
+
 Sorry for how long this has taken for me to upload x3
 
 Some of these configs are modified versions of already existing configs, such as YASB, oh-my-posh, and Spicetify.
