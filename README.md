@@ -42,7 +42,7 @@ Edit the `config-xpui.ini` in spicetify's main folder so that `current_theme` is
 After that just type in your console `spicetify apply` and everything should work ^^
 
 ## Oh-my-posh
-Create a folder in `C:\Users\michii\.config` called `oh-my-posh`, download https://github.com/Hi-doki/senkotheme/blob/main/oh-my-posh/SenkoSan.json and move it over to that newly created folder.
+Create a folder in `C:\Users\USERNAME\.config` called `oh-my-posh`, download https://github.com/Hi-doki/senkotheme/blob/main/oh-my-posh/SenkoSan.json and move it over to that newly created folder.
 
 ## How to setup Powershell to use oh-my-posh and Winfetch
 On your terminal, type in the command `notepad $PROFILE`, this will most likely bring a popup on your screen that it will create the file for you. Once you are on the config file `Microsoft.Powershell_profile.ps1`, copy the code from https://github.com/Hi-doki/senkotheme/blob/main/PowerShell/Microsoft.PowerShell_profile.ps1 and paste it in, then save. 
