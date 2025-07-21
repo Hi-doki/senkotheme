@@ -1,4 +1,4 @@
-#Senko Theme (Windows)
+# Senko Theme (Windows)
 
 Sorry for how long this has taken for me to upload x3
 
