@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/refs/heads/main/them
 Ensure you have properly installed these programs first, I don't want there to be unnecessary GitHub issues where you have likely not installed or set up a program x3
 
 # Requirements
-These configs include fonts such as JetbrainsMono Nerd Font which is needed in YASB and Windows Terminal.
+These configs include fonts such as JetbrainsMono Nerd Font which is needed in YASB and Windows Terminal. <br>
 I do highly also recommend using the latest version of Powershell (you can download by using `winget install Powershell` in your terminal)
 
 ## Windows Terminal
