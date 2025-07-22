@@ -1,0 +1,124 @@
+/**
+ * @name senkotheme
+ * @description Senko-san inspired theme for discord :3
+ * @author Michii
+ * @version 1.0.0
+ * @authorId 1328034621191094485
+ * @invite Yaye5KWQMW
+ * @source https://github.com/hi-doki/senkotheme/discord/senkotheme.theme.css
+ * @updateUrl https://raw.githubusercontent.com/Hi-doki/senkotheme/refs/heads/main/discord/senkotheme.theme.css
+ * @donate https://ko-fi.com/hid0ki
+*/
+
+@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css");
+
+[class*="popout"] *,
+[class*="popout"] {
+}
+.overlay_c0bea0 {
+  background: rgb(43, 37, 30, 0.5) !important;
+}
+.customButton__39ec2 {
+  background: rgb(230, 184, 77, 0.25) !important;
+  border: 1px solid rgb(139, 115, 85) !important;
+  color: rgb(222, 222, 222) !important;
+}
+
+[class*="popover"] {
+  background: rgb(43, 37, 30) !important;
+}
+
+[class^="overlay"]:not([class*="popout"]):not([class*="popout"] *),
+[class*=" overlay"]:not([class*="popout"]):not([class*="popout"] *) {
+  background: rgb(43, 37, 30, 0.5);
+}
+[class*="overlayContainer"] {
+  background: rgb(43, 37, 30, 0) !important;
+}
+[class*="backdrop_"] {
+  background: rgb(43, 37, 30, 0.8) !important;
+  backdrop-filter: blur(5px) !important;
+  transition: 1s;
+}
+
+[class*="item"]:hover[class*="selected"]:hover:not([class*="popout"]):not(
+    [class*="popout"] *
+  ) {
+  background: rgb(139, 115, 85) !important;
+}
+
+.customButton__39ec2:not([class*="popout"]):not([class*="popout"] *) {
+  background: rgb(230, 184, 77, 0.25) !important;
+  border: 1px solid rgb(139, 115, 85) !important;
+  color: rgb(222, 222, 222) !important;
+}
+
+.title_c38106 {
+  justify-content: left;
+  margin-left: 1rem;
+}
+.title__85643 div.defaultColor__4bd52 {
+  width: 0;
+  overflow: visible;
+}
+.title__85643 div.defaultColor__4bd52::before {
+  color: rgb(222, 222, 222) !important;
+  content: "~/";
+}
+
+[class*="showMoreButton_"]:not([class*="popout"]):not([class*="popout"] *) {
+  background: rgb(43, 37, 30, 0.25) !important;
+  border: 1px solid rgb(139, 115, 85, 0.5) !important;
+  border-top: 0px;
+  color: rgb(222, 222, 222) !important;
+}
+
+[class*="tabBarItem_"]:not([class*="popout"]):not([class*="popout"] *) {
+  background: rgb(139, 115, 85, 0) !important;
+}
+[class*="tabBarItem_"]:hover[class*="selected_"]:hover:not(
+    [class*="popout"]
+  ):not([class*="popout"] *) {
+  background: rgb(139, 115, 85, 0) !important;
+}
+
+.appAsidePanelWrapper_a3002d:not([class*="popout"]):not([class*="popout"] *) {
+  background: rgb(43, 37, 30) !important;
+}
+
+#slate-toolbar:not([class*="popout"]):not([class*="popout"] *) {
+  background: rgb(43, 37, 30) !important;
+}
+
+[class*="radioBar_"] {
+  background: rgb(43, 37, 30, 0.5) !important;
+  border: 1px solid rgb(139, 115, 85) !important;
+}
+
+:root {
+  --backgroundprimary: 61, 53, 41;
+  --backgroundsecondary: 43, 37, 30;
+  --backgroundsecondaryalt: 74, 63, 50;
+  --backgroundtertiary: 74, 63, 50;
+  --backgroundaccent: 139, 115, 85;
+  --backgroundfloating: 168, 147, 115;
+  --backgroundcode: 61, 53, 41;
+  --framecolor: 61, 53, 41;
+
+  --accentcolor: 230, 184, 77;
+  --mentioncolor: 248, 200, 96;
+  --linkcolor: 250, 229, 123;
+  --red-color: 232, 168, 92;
+  --error-color: 226, 115, 85;
+  --widget-color: 230, 184, 77;
+
+  --textbrightest: 254, 250, 230;
+  --textbrighter: 222, 222, 222;
+  --textbright: 168, 147, 115;
+  --textdark: 140, 140, 140;
+  --textdarker: 115, 115, 115;
+  --textdarkest: 80, 80, 80;
+
+  --font: JetbrainsMono NF;
+  --settingsicons: 1;
+}
