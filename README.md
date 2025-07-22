@@ -66,10 +66,11 @@ After that just type in your console `spicetify apply` and everything should wor
 Create a folder in `C:\Users\USERNAME\.config` called `oh-my-posh`, download https://github.com/Hi-doki/senkotheme/blob/main/oh-my-posh/SenkoSan.json and move it over to that newly created folder.
 
 ## Discord
-<img width="1301" height="783" alt="{903C510A-3460-451C-ADB3-264B751BE1B0}" src="https://github.com/user-attachments/assets/0747ba5b-fc4f-4c41-ab94-4493cc6fc142" />
+<img width="1301" height="783" alt="{903C510A-3460-451C-ADB3-264B751BE1B0}" src="https://github.com/user-attachments/assets/0747ba5b-fc4f-4c41-ab94-4493cc6fc142" /> <br>
+#### USING VENCORD:
 
-### Vencord
-Download the css file from https://github.com/Hi-doki/senkotheme/blob/main/discord/senkotheme.theme.css and place it into `C:\Users\USERNAME\AppData\Roaming\Vencord\themes`. Then go over to Discord's settings, Themes, and enable senkotheme.
+Download the css file from https://github.com/Hi-doki/senkotheme/blob/main/discord/senkotheme.theme.css and place it into `C:\Users\USERNAME\AppData\Roaming\Vencord\themes`. Then go over to Discord's settings, Themes, and enable senkotheme. <br>
+Alternatively, you can copy the url https://raw.githubusercontent.com/Hi-doki/senkotheme/refs/heads/main/discord/senkotheme.theme.css and paste into the `Online Themes` section of the Themes tab in Vencord.
 
 
 
