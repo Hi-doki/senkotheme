@@ -6,8 +6,8 @@ Sorry for how long this has taken for me to upload x3
 
 > [!IMPORTANT]
 > I highly recommend using [AltSnap](https://github.com/RamonUnch/AltSnap) to be able to move your terminal around after applying my config, unless you already use something like Komorebi or GlazeWM. <br>
-> To access the settings on your terminal after applying my config, do Win + Shift + P to open the command palette and just type settings. <br>
-> To enable the titlebar, type 'focus' in the command palette and click the `toggle focus mode` button.
+> To access the settings on your terminal after applying my config, do `Win + Shift + P` to open the command palette and just type settings. <br>
+> To enable the titlebar, type *'focus'* in the command palette and click the `toggle focus mode` button.
 
 > [!NOTE]
 > Some of these configs are modified versions of already existing configs, such as YASB, oh-my-posh, and Spicetify. <br>
@@ -31,7 +31,7 @@ These configs include fonts such as JetbrainsMono Nerd Font which is needed in Y
 I do highly also recommend using the latest version of Powershell (you can download by using `winget install Powershell` in your terminal)
 
 ## Windows Terminal
-READ THE IMPORTANT NOTE AT THE TOP OF THIS README
+##### READ THE IMPORTANT NOTE AT THE TOP OF THIS README <br>
 Copy the code from https://github.com/Hi-doki/senkotheme/blob/main/windowsTerminal/settings.json and replace it into your Windows Terminal settings JSON file located at `C:\Users\USERNAME\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json`
 
 ## Winfetch
