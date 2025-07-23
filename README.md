@@ -38,7 +38,12 @@ I do highly also recommend using the latest version of Powershell (you can downl
 
 Copy the code from https://github.com/Hi-doki/senkotheme/blob/main/windowsTerminal/settings.json and replace it into your Windows Terminal settings JSON file located at `C:\Users\USERNAME\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json`
 
-## Winfetch
+## Fastfetch
+<img width="700" alt="{37AB2789-A2CE-432F-93CF-2E8CADE32CBB}" src="https://github.com/user-attachments/assets/f4ea7cc8-c0dd-4f16-8276-f2c0a2ceb1b3" />
+
+Copy both of the files inside of https://github.com/Hi-doki/senkotheme/tree/main/fastfetch and paste them into `C:\Users\USERNAME\.config\fastfetch`.
+
+## ~~Winfetch (Slower than Fastfetch)~~
 <img width="700" alt="{EFCC80D8-0A82-4F92-B8F3-B61621A7C3DA}" src="https://github.com/user-attachments/assets/475ea9a2-cbeb-4ee2-8d01-b2551aab207a" />
 
 Copy code from https://github.com/Hi-doki/senkotheme/blob/main/winfetch/config.ps1 and paste into `C:\Users\USERNAME\.config\winfetch\config.ps1`
@@ -74,7 +79,7 @@ Alternatively, you can copy the url https://raw.githubusercontent.com/Hi-doki/se
 
 
 
-## How to setup Powershell to use oh-my-posh and Winfetch
+## How to setup Powershell to use oh-my-posh and Fastfetch
 On your terminal, type in the command `notepad $PROFILE`, this will most likely bring a popup on your screen that it will create the file for you. Once you are on the config file `Microsoft.Powershell_profile.ps1`, copy the code from https://github.com/Hi-doki/senkotheme/blob/main/PowerShell/Microsoft.PowerShell_profile.ps1 and paste it in, then save. 
 **==(Make sure to change the username in the code as I left my account's username in it)==**
 
