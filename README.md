@@ -43,10 +43,10 @@ Copy the code from https://github.com/Hi-doki/senkotheme/blob/main/windowsTermin
 
 Copy both of the files inside of https://github.com/Hi-doki/senkotheme/tree/main/fastfetch and paste them into `C:\Users\USERNAME\.config\fastfetch`.
 
-## ~~Winfetch (Slower than Fastfetch)~~
-<img width="700" alt="{EFCC80D8-0A82-4F92-B8F3-B61621A7C3DA}" src="https://github.com/user-attachments/assets/475ea9a2-cbeb-4ee2-8d01-b2551aab207a" />
+#### Winfetch (Slower than Fastfetch, not recommended)
+<img width="400" alt="{EFCC80D8-0A82-4F92-B8F3-B61621A7C3DA}" src="https://github.com/user-attachments/assets/475ea9a2-cbeb-4ee2-8d01-b2551aab207a" />
 
-Copy code from https://github.com/Hi-doki/senkotheme/blob/main/winfetch/config.ps1 and paste into `C:\Users\USERNAME\.config\winfetch\config.ps1`
+###### Copy code from https://github.com/Hi-doki/senkotheme/blob/main/winfetch/config.ps1 and paste into `C:\Users\USERNAME\.config\winfetch\config.ps1`
 
 ## YASB
 <img width="1920" alt="{48329DC2-5D2F-4DFB-BFB2-DB3675E4DE1A}" src="https://github.com/user-attachments/assets/45cada3b-67fa-4302-99a1-1e725a9d1871" />
