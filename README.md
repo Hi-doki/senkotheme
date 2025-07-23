@@ -1,6 +1,7 @@
 # Senko Theme (Windows)
 
-<img src="https://i.redd.it/v5vl6ynldhdf1.png" />
+<img width="1920" height="1080" alt="{C06D71D4-0573-41A2-AF34-A64A40EF1DF9}" src="https://github.com/user-attachments/assets/ff4388b1-5103-4ffe-8d13-de2b775dfbff" />
+
 
 Sorry for how long this has taken for me to upload x3
 
