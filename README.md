@@ -5,9 +5,11 @@
 Sorry for how long this has taken for me to upload x3
 
 > [!IMPORTANT]
-> I highly recommend using [AltSnap](https://github.com/RamonUnch/AltSnap) to be able to move your terminal around after applying my config, unless you already use something like Komorebi or GlazeWM. <br>
-> To access the settings on your terminal after applying my config, do `Win + Shift + P` to open the command palette and just type settings. <br>
-> To enable the titlebar, type *'focus'* in the command palette and click the `toggle focus mode` button.
+> I highly recommend using ***[AltSnap](https://github.com/RamonUnch/AltSnap)*** to be able to move your terminal around after applying my config, unless you already use something like Komorebi or GlazeWM. <br><br>
+> To access the settings on your terminal after applying my config, do `Win + Shift + P` to open the command palette and just type settings. <br><br>
+> To enable the titlebar, type *'focus'* in the ***command palette*** and click the `toggle focus mode` button.<br><br>
+> These configs include fonts such as ***JetbrainsMono Nerd Font*** which is needed in YASB, Windows Terminal and Discord. <br><br>
+> I do highly also recommend using the ***latest version of Powershell*** (you can download by using `winget install Powershell` in your terminal)
 
 > [!NOTE]
 > Some of these configs are modified versions of already existing configs, such as YASB, oh-my-posh, and Spicetify. <br>
@@ -16,20 +18,18 @@ Sorry for how long this has taken for me to upload x3
 > `Catppuccin oh-my-posh`: [Raw JSON Link](https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/refs/heads/main/themes/catppuccin_mocha.omp.json)
 
 ## This repo includes configs for:
-- Windows Terminal
-- Winfetch
-- YASB
-- VSCode
-- Spicetify
-- Oh-my-posh
-- Discord
+- [Windows Terminal](#windows-terminal)
+- [Fastfetch](#fastfetch)
+- [Winfetch](#winfetch-slower-than-fastfetch-not-recommended)
+- [YASB](#yasb)
+- [VSCode](#vscode)
+- [Spicetify](#spicetify)
+- [Oh-my-posh](#oh-my-posh)
+- [Discord](#discord)
 - (More to come in the future)
 
-Ensure you have properly installed these programs first, I don't want there to be unnecessary GitHub issues where you have likely not installed or set up a program x3
-
 # Requirements
-These configs include fonts such as JetbrainsMono Nerd Font which is needed in YASB and Windows Terminal. <br>
-I do highly also recommend using the latest version of Powershell (you can download by using `winget install Powershell` in your terminal)
+
 
 ## Windows Terminal
 
