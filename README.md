@@ -36,9 +36,6 @@ Sorry for how long this has taken for me to upload x3
 - [Discord](#discord)
 - (More to come in the future)
 
-# Requirements
-
-
 ## Windows Terminal
 
 ##### READ THE IMPORTANT NOTE AT THE TOP OF THIS README <br>
