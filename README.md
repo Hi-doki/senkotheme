@@ -2,6 +2,13 @@
 
 <img width="1920" height="1080" alt="{C06D71D4-0573-41A2-AF34-A64A40EF1DF9}" src="https://github.com/user-attachments/assets/ff4388b1-5103-4ffe-8d13-de2b775dfbff" />
 
+<div align=center>
+  <h3><sub><sup>Total views</sup></sub></h3>
+  <img src="https://moe-counter.glitch.me/get/@:hidokisenko" align="center" />
+</div>
+<br>
+
+
 
 Sorry for how long this has taken for me to upload x3
 
