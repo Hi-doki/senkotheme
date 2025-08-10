@@ -2,7 +2,7 @@
  * @name senkotheme
  * @description Senko-san inspired theme for discord :3
  * @author Michii
- * @version 1.0.0
+ * @version 1.0.1
  * @authorId 1328034621191094485
  * @invite Yaye5KWQMW
  * @source https://github.com/hi-doki/senkotheme/discord/senkotheme.theme.css
@@ -60,6 +60,8 @@
 .title__85643 div.defaultColor__4bd52 {
   width: 0;
   overflow: visible;
+  text-transform: lowercase;
+  word-spacing: -0.5rem;
 }
 .title__85643 div.defaultColor__4bd52::before {
   color: rgb(222, 222, 222) !important;
