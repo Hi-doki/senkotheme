@@ -36,6 +36,11 @@ Sorry for how long this has taken for me to upload x3
 - [Discord](#discord)
 - (More to come in the future)
 
+WIP:
+- ZenBrowser
+- WindHawk Mods
+- Stylus (Includes Github, DuckDuckGo, etc)
+
 ## Requirements
 - JetbrainsMono Nerd Font
 - Powershell 7.X^
