@@ -4,7 +4,7 @@
 
 <div align=center>
   <h3><sub><sup>Total views</sup></sub></h3>
-  <img src="https://moe-counter.glitch.me/get/@:hidokisenko" align="center" />
+  <img src="https://count.getloli.com/@:hidokisenko?theme=rule34" align="center" />
 </div>
 <br>
 
